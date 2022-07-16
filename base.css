@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	background-color: black;
+	font-color: green;
 }
 ol, ul {
 	list-style: none;
